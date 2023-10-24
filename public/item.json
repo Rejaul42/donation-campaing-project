@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "Picture": "https://i.ibb.co/GJvQx9Y/Health.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0034FF33",
+        "Card_bg": "#0052ff26",
+        "Text_and_button_bg": "#0052FF",
+        "Description": "Good health is a state of physical, mental, and social well-being in which an individual is free from illness, injury, or disease and possesses the capacity to lead a fulfilling life. Achieving and maintaining good health is a holistic and multifaceted concept that encompasses various aspects of a person's life",
+        "Price": 300.00
+    },
+    {
+        "id": 2,
+        "Picture": "https://i.ibb.co/wN0sKxq/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#FF444A33",
+        "Card_bg": "#ff444926",
+        "Text_and_button_bg": "#FF444A",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "Price": 170.00
+    },
+    {
+        "id": 3,
+        "Picture": "https://i.ibb.co/BK70qCW/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79c23f26",
+        "Text_and_button_bg": "#79C23F",
+        "Description": "Clothing, often referred to as apparel or attire, serves both functional and expressive purposes in human society. It encompasses a wide range of items that people wear on their bodies to cover, protect, and adorn themselves. Clothing is a significant aspect of culture, identity, and personal expression. ",
+        "Price": 190.00
+    },
+    {
+        "id": 4,
+        "Picture": "https://i.ibb.co/JQwTFXd/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#f8714726",
+        "Text_and_button_bg": "#F87147",
+        "Description": "Food is a fundamental aspect of human life, providing nourishment, sustenance, and pleasure. It is essential for survival, but it is also a rich and diverse cultural, social, and sensory experience. ",
+        "Price": 170.00
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/JQwTFXd/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#f8714726",
+        "Text_and_button_bg": "#F87147",
+        "Description": "Food is a fundamental aspect of human life, providing nourishment, sustenance, and pleasure. It is essential for survival, but it is also a rich and diverse cultural, social, and sensory experience. ",
+        "Price": 150.00
+    },
+    {
+        "id": 6,
+        "Picture": "https://i.ibb.co/BK70qCW/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79c23f26",
+        "Text_and_button_bg": "#79C23F",
+        "Description": "Clothing, often referred to as apparel or attire, serves both functional and expressive purposes in human society. It encompasses a wide range of items that people wear on their bodies to cover, protect, and adorn themselves. Clothing is a significant aspect of culture, identity, and personal expression. ",
+        "Price": 280.00
+    },
+    {
+        "id": 7,
+        "Picture": "https://i.ibb.co/wN0sKxq/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#FF444A33",
+        "Card_bg": "#ff444926",
+        "Text_and_button_bg": "#FF444A",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "Price": 170.00
+    },
+    {
+        "id": 8,
+        "Picture": "https://i.ibb.co/GJvQx9Y/Health.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0034FF33",
+        "Card_bg": "#0052ff26",
+        "Text_and_button_bg": "#0052FF",
+        "Description": "Good health is a state of physical, mental, and social well-being in which an individual is free from illness, injury, or disease and possesses the capacity to lead a fulfilling life. Achieving and maintaining good health is a holistic and multifaceted concept that encompasses various aspects of a person's life",
+        "Price": 280.00
+    },
+    {
+        "id": 9,
+        "Picture": "https://i.ibb.co/GJvQx9Y/Health.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0034FF33",
+        "Card_bg": "#0052ff26",
+        "Text_and_button_bg": "#0052FF",
+        "Description": "Good health is a state of physical, mental, and social well-being in which an individual is free from illness, injury, or disease and possesses the capacity to lead a fulfilling life. Achieving and maintaining good health is a holistic and multifaceted concept that encompasses various aspects of a person's life",
+        "Price": 150.00
+    },
+    {
+        "id": 10,
+        "Picture": "https://i.ibb.co/wN0sKxq/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#FF444A33",
+        "Card_bg": "#ff444926",
+        "Text_and_button_bg": "#FF444A",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "Price": 200.00
+    },
+    {
+        "id": 11,
+        "Picture": "https://i.ibb.co/BK70qCW/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79c23f26",
+        "Text_and_button_bg": "#79C23F",
+        "Description": "Clothing, often referred to as apparel or attire, serves both functional and expressive purposes in human society. It encompasses a wide range of items that people wear on their bodies to cover, protect, and adorn themselves. Clothing is a significant aspect of culture, identity, and personal expression. ",
+        "Price": 250.00
+    },
+    {
+        "id": 12,
+        "Picture": "https://i.ibb.co/JQwTFXd/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#f8714726",
+        "Text_and_button_bg": "#F87147",
+        "Description": "Food is a fundamental aspect of human life, providing nourishment, sustenance, and pleasure. It is essential for survival, but it is also a rich and diverse cultural, social, and sensory experience. ",
+        "Price": 200.00
+    }
+]

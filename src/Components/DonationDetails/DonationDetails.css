@@ -1,0 +1,5 @@
+.linear{
+    background: linear-gradient(0deg, rgb(71, 70, 70, 0.50 ), rgba(71, 70, 70, 0.5)) ;
+    width: 100%;
+    opacity: 90%;
+}
